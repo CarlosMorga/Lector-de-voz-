@@ -20,6 +20,7 @@ body{
     height: 4rem;
     display: block;
     width: 90%;
+    padding:12px;
     height: auto;
     background-color: dodgerblue;
     border-radius: 10px;
@@ -30,9 +31,7 @@ body{
 button:active{
     background-color: rgb(32, 89, 224);
 }
-.btn-grabar{
-    background-color: tomato;
-}
+
 input{
     display: block;
     width: 90%;
